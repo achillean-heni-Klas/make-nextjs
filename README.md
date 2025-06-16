@@ -87,3 +87,5 @@ syncthing was too complicated. resilio wanted money. rsync required ssh keys.
 i just wanted drag-and-drop sync between my laptop and desktop.
 
 Apache-2.0 • one person project
+
+# PR Update: 2025-11-01 08:07:19
